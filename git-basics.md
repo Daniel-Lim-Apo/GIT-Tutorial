@@ -2,7 +2,7 @@
 
 This tutorial covers essential Git commands to help you work with repositories, branches, commits, and more.
 
-## 1. Cloning a Remote Repository
+## 1. Cloning a Remote Repository 
 
 To clone a remote repository into your local machine, use the `git clone` command.
 
