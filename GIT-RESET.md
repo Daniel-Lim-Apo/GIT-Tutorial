@@ -21,3 +21,6 @@ git reset [option] <commit>
 
     --soft: Only moves the HEAD pointer to the specified commit without changing the working directory or the staging area.
     --hard: Resets everything—moves the HEAD pointer, resets the staging area, and changes the working directory to match the specified commit.
+
+## Git Reset Documentation:
+https://git-scm.com/docs/git-reset
